@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  public setLanguage = (language) => {
+        localStorage.setItem('localeId', language);
+        console.log('locale set to:' + language);
+        location.reload(true);
+    }
 }
