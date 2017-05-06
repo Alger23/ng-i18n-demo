@@ -1,5 +1,9 @@
 # NgI18nDemo
 
+![i18n demo](docs/images/ng-i18n.gif "Logo Title Text 1")
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
 ## Development server
